@@ -1,3 +1,6 @@
+![image info](./linekedin.jpg)
+
+
 # 💫 About Me:
 I'm Saurabh Satish Rane, a computer science enthusiast pursuing my Master's at NC State University. With a strong foundation in IT from my Bachelor's, I've honed my programming skills and contributed to projects at JPMorgan. As an Algonauts intern, I excelled in full-stack development, deploying web portals and crafting innovative solutions like a decentralized agricultural insurance system, Chrome extension, and Android app. Beyond tech, I've led, participated in hackathons, and engaged in environmental initiatives. 
 
