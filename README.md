@@ -5,11 +5,29 @@
 I'm Saurabh Satish Rane, a computer science enthusiast pursuing my Master's at NC State University. With a strong foundation in IT from my Bachelor's, I've honed my programming skills and contributed to projects at JPMorgan. As an Algonauts intern, I excelled in full-stack development, deploying web portals and crafting innovative solutions like a decentralized agricultural insurance system, Chrome extension, and Android app. Beyond tech, I've led, participated in hackathons, and engaged in environmental initiatives. 
 
 # Talk to me about:
-- Building systems that scale and performance modelling for backend systems
-- How AI is a tool and not a replacement for Software Engineers
+- Building innovative and interesting solutions to solve human pain points
+- How amazing is AI and how less we know about it actually works (even as engineers)
 - Using technology for Social Good
 - Fun geographical and historical facts
 - Formula 1 🏎️
+
+# Currently Learning
+1. Kubernetes at scale
+2. Gitops in an industry setting
+3. Swift
+
+![Meme](https://miro.medium.com/v2/resize:fit:417/0*4WkH-pktvEttw65u.png)
+
+# Last mind-boggling thing I read/watch
+
+Context : CTO of Dukan, India (Indian version of Shopify) talks about their journey from **cloud to bare-metal**
+
+[Link](https://www.youtube.com/watch?v=vFxQyZX84Ro)
+
+Key Takeaways:
+1. Do we really need that sort of high availability, scalability, and reliability?
+2. To build Internet applications understand the fundamentals of how the Internet works
+3. If it works don't touch it unless you really need to
 
 
 ## 🌐 Socials:
