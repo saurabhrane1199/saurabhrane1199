@@ -12,22 +12,11 @@ I'm Saurabh Satish Rane, a computer science enthusiast pursuing my Master's at N
 - Formula 1 🏎️
 
 # Currently Learning
-1. Kubernetes at scale
-2. Gitops in an industry setting
-3. Swift
+1. Privacy Preserving Ads
+2. WebVM
+3. WASM
 
-![Meme](https://miro.medium.com/v2/resize:fit:417/0*4WkH-pktvEttw65u.png)
-
-# Last mind-boggling thing I read/watch
-
-Context : CTO of Dukan, India (Indian version of Shopify) talks about their journey from **cloud to bare-metal**
-
-[Link](https://www.youtube.com/watch?v=vFxQyZX84Ro)
-
-Key Takeaways:
-1. Do we really need that sort of high availability, scalability, and reliability?
-2. To build Internet applications understand the fundamentals of how the Internet works
-3. If it works don't touch it unless you really need to
+![Meme](https://preview.redd.it/jphrnxfft5o91.jpg?auto=webp&s=c8d46ed501db917e7490d1397cf5f73965cb0476)
 
 
 ## 🌐 Socials:
